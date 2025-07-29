@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img width="519" height="730" alt="sign1" src="https://github.com/user-attachments/assets/e13fe1e5-d0cd-4694-8146-274798cb4b65" />
-<img width="514" height="727" alt="sign2" src="https://github.com/user-attachments/assets/aa1472a9-7da4-4592-8628-49d476b4d1d6" />
-<img width="521" height="729" alt="sign3" src="https://github.com/user-attachments/assets/5c03e0f9-cec0-4bc8-aa10-87025252773a" />
-<img width="516" height="724" alt="sign4" src="https://github.com/user-attachments/assets/0029e072-58da-4d2d-a64f-1bb1d4a1c4a0" />
-<img width="516" height="725" alt="sign5" src="https://github.com/user-attachments/assets/79677177-851f-4ecc-b7a2-14bf77bfccb7" />
+<img width="498" height="725" alt="sign_login1" src="https://github.com/user-attachments/assets/74bc4764-16c5-4d14-8420-ba6f60ec46bf" />
+<img width="499" height="729" alt="sign_login2" src="https://github.com/user-attachments/assets/78b9f74d-e8ff-43d2-b21f-51d54b41d03b" />
+<img width="953" height="581" alt="signup_login3" src="https://github.com/user-attachments/assets/de3243e4-fd7d-412f-86d2-7e0ea04bf34b" />
+
+
